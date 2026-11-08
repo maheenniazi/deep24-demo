@@ -27,7 +27,7 @@ the rest as VO played over your screen recordings. Auto-caption the final audio 
 **Intro (avatar ON camera):**
 1. "here's how I created this"
 2. "VIRAL vlog intro using the train door edit"
-3. "flash overlay effect — and the…"
+3. "and the flash overlay effect"
 4. "let's go!"
 
 **Tutorial (VO over screen recordings):**
@@ -38,14 +38,15 @@ the rest as VO played over your screen recordings. Auto-caption the final audio 
 9. "select remove background, choose custom removal, and remove everything visible through the window"
 10. "and to take it a step further, add some text"
 11. "then open up the layer controls and move the text behind the train door clip"
-12. "now let's create the flash transition"
-13. "choose any clip you're in, turn the duplicate into an overlay"
-14. "then extend it slightly so it begins before the main clip"
-15. "next select remove background, and remove the subject from the rest of the shot"
-16. "move that layer behind the overlay, then split the overlay"
-17. "finally apply the white flash video effect"
-18. "and add the glitch and camera flash sounds to elevate it even more"
-19. "put it all together and you'll have something like this"
+12. "your final result should look something like this"
+13. "now let's create the flash transition"
+14. "choose any clip you're in and duplicate it, turn the duplicate into an overlay"
+15. "then extend it slightly so it begins before the main clip"
+16. "next select remove background, and isolate yourself from the rest of the shot"
+17. "and if you've added text move that layer behind the overlay, then split the overlay where the main clip begins"
+18. "finally apply the white flash video effect to the first clip"
+19. "and add the glitch and camera flash sound effects to elevate it even more"
+20. "put it all together and you'll have something like"
 
 **TTS voice direction:** young, warm, casual, upbeat — "soft-girl vlogger" tone, slightly
 breathy, conversational pace. (ElevenLabs or similar.)
