@@ -20,6 +20,7 @@
 - **Resolution:** exported at 720×1280 vs the reference's higher resolution, so the screen-recording sections look slightly softer.
 - **Hook frame:** reference opens on the doors-opening reveal; mine opens on the concert + cutout moment of the same finished edit.
 - **Assets are AI-generated / stock** (door, concert, hero) rather than personally filmed like the reference's real BART footage.
+- **Weak effects** effects and transitions are weak since they were tried to be copied with little information.
 
 ## Tools used
 - **Voiceover:** Speechify (TTS)
