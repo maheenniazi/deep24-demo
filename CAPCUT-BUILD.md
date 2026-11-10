@@ -1,3 +1,7 @@
+# Project Link
+- https://www.capcut.com/draft-preview/FD316150-67C0-4E67-B5FD-D2F7868DB41D?workspace_id=7217604327467221018 
+
+
 # CapCut build guide
 
 You build in two passes:
